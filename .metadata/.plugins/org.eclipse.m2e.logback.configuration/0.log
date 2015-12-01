@@ -1,0 +1,59 @@
+2015-11-24 18:11:20,897 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\JAT\Desktop\Git\Sequences\GA\pom.xml
+2015-11-24 18:11:29,951 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Sequences:GA:0.0.1-SNAPSHOT @ C:\Users\JAT\Desktop\Git\Sequences\GA\pom.xml.
+2015-11-24 18:11:31,807 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Sequences:GA:0.0.1-SNAPSHOT @ C:\Users\JAT\Desktop\Git\Sequences\GA\pom.xml.
+2015-11-24 18:11:32,451 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GA/src/main/java
+2015-11-24 18:11:32,483 [Worker-1] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GA/src/test/java
+2015-11-24 18:11:34,241 [Worker-1] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 13 sec
+2015-11-24 18:11:35,452 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Sequences:GA:0.0.1-SNAPSHOT @ C:\Users\JAT\Desktop\Git\Sequences\GA\pom.xml.
+2015-11-24 18:11:35,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-24 18:11:35,562 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-11-24 18:11:35,572 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-24 18:11:35,572 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-11-28 19:04:39,332 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-28 19:04:39,362 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-11-28 19:04:39,372 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-28 19:04:39,372 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-11-28 22:00:43,315 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-28 22:00:43,316 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-11-28 22:00:43,319 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-28 22:00:43,320 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-11-28 22:02:12,143 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-28 22:02:12,144 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-11-28 22:02:12,146 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-28 22:02:12,146 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-11-29 02:04:03,469 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 02:04:03,470 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-11-29 02:04:03,473 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-11-29 02:04:03,474 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-12-01 13:33:35,774 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 13:33:35,806 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-12-01 13:33:35,809 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 13:33:35,809 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-12-01 14:26:36,498 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 14:26:36,503 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-12-01 14:26:36,507 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 14:26:36,508 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-12-01 15:16:48,104 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 15:16:48,105 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-12-01 15:16:48,108 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 15:16:48,109 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-12-01 15:18:04,173 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 15:18:04,174 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-12-01 15:18:04,176 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 15:18:04,176 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-12-01 20:23:31,800 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 20:23:31,808 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-12-01 20:23:31,813 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 20:23:31,813 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-12-01 20:24:00,072 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 20:24:00,073 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-12-01 20:24:00,075 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 20:24:00,076 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-12-01 20:57:34,077 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 20:57:34,079 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-12-01 20:57:34,086 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 20:57:34,087 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources
+2015-12-01 21:35:41,993 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 21:35:41,994 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\main\resources
+2015-12-01 21:35:41,998 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2015-12-01 21:35:41,999 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\JAT\Desktop\Git\Sequences\GA\src\test\resources

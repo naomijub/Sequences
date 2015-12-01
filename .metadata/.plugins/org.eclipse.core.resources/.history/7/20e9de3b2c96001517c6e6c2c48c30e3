@@ -1,0 +1,5 @@
+package Sequences.GA;
+
+public class Chromosome {
+
+}

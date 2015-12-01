@@ -1,0 +1,38 @@
+package Sequences.GA;
+
+import java.util.Random;
+
+public class Chromosome {
+
+	private final static int POP_SIZE = 70;
+	private final static int GENE_SIZE = 8;
+	private int[][] gene;
+	private int[][] geneAux;
+	private int[] fitness;
+	
+	public Chromosome(){
+		fitness = new int[POP_SIZE];
+		gene = new int[POP_SIZE][GENE_SIZE];
+		geneAux = new int[70][8];
+		Random rg = new Random();
+		for(int i = 0;i < POP_SIZE;i++){
+			fitness[i] = -5000;
+			for(int j = 0;j < GENE_SIZE;j++){
+				gene[i][j] = rg.nextInt(131 + i*j) % GENE_SIZE;
+				geneAux[i][j] = 0;
+			}
+		}
+	}
+	
+	public void printGene(int i){
+		System.out.println(gene[i][0]+""+gene[i][1]+""+gene[i][2]+""+gene[i][3]+""+gene[i][4]+""+gene[i][5]+""+gene[i][6]+""+gene[i][7]);
+	}
+	
+	public void fitness(){
+		
+	}
+	
+	public void mutate(){
+		
+	}
+}
